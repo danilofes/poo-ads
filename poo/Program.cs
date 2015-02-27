@@ -10,6 +10,8 @@ namespace poo
     {
         static void Main(string[] args)
         {
+            Aluno aluno = new Aluno();
+
             Console.WriteLine("hello");
             Console.ReadKey();
         }
